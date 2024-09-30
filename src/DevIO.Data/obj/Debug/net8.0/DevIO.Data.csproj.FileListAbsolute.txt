@@ -5,8 +5,8 @@ C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\De
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfoInputs.cache
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.AssemblyInfo.cs
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.sourcelink.json
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.dll
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\refint\DevIO.Data.dll
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.pdb
 C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\ref\DevIO.Data.dll
-C:\Users\diogo_santos\Desktop\devIO\arquiteturaTresCamadas\ApiTresCamadas\src\DevIO.Data\obj\Debug\net8.0\DevIO.Data.sourcelink.json
