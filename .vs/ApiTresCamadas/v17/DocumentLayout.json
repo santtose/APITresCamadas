@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.business\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A661FE-BE51-4EB5-BB2D-3E4C94970A9A}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:45:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:42:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Models\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:14:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\BaseService.cs",
               "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\BaseService.cs",
               "RelativeToolTip": "src\\DevIO.Business\\Services\\BaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:08:23.447Z",
               "EditorCaption": ""
@@ -119,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FornecedorService.cs",
               "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\FornecedorService.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\FornecedorService.cs",
               "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Business\\Services\\FornecedorService.cs",
               "RelativeToolTip": "src\\DevIO.Business\\Services\\FornecedorService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:07:18.77Z",
               "EditorCaption": ""
