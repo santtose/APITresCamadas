@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61C106B2-C94A-42BF-AFAE-CB5B9A7C30E6}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C106B2-C94A-42BF-AFAE-CB5B9A7C30E6}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61C106B2-C94A-42BF-AFAE-CB5B9A7C30E6}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\diogo_santos\\desktop\\devio\\arquiteturatrescamadas\\apitrescamadas\\src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C106B2-C94A-42BF-AFAE-CB5B9A7C30E6}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,38 +115,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Program.cs",
+              "RelativeToolTip": "src\\DevIO.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:53:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FornecedoresController.cs",
               "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
               "RelativeToolTip": "src\\DevIO.Api\\Controllers\\FornecedoresController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwEgAAAAkAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:59:12.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "src\\DevIO.Api\\Controllers\\ProdutosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAxAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:54:10.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "src\\DevIO.Api\\Controllers\\MainController.cs",
               "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\devIO\\arquiteturaTresCamadas\\ApiTresCamadas\\src\\DevIO.Api\\Controllers\\MainController.cs",
               "RelativeToolTip": "src\\DevIO.Api\\Controllers\\MainController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T17:54:00.403Z",
               "EditorCaption": ""

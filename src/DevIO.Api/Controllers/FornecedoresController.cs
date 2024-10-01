@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
 using DevIO.Api.DTO;
-using DevIO.Business.Interfaces.Repository;
 using DevIO.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using DevIO.Business.Models;
 using System.Net;
+using DevIO.Business.Interfaces.Repository;
 
 namespace DevIO.Api.Controllers
 {
