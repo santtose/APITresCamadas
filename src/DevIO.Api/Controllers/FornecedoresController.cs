@@ -4,6 +4,7 @@ using DevIO.Business.Interfaces.Repository;
 using DevIO.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using DevIO.Business.Models;
+using System.Net;
 
 namespace DevIO.Api.Controllers
 {
@@ -16,7 +17,8 @@ namespace DevIO.Api.Controllers
 
         public FornecedoresController(IMapper mapper,
                                       IFornecedorRepository fornecedorRepository,
-                                      IFornecedorService fornecedorService)
+                                      IFornecedorService fornecedorService,
+                                      INotificador notificador) : base(notificador)
         {
             _mapper = mapper;
             _fornecedorRepository = fornecedorRepository;
@@ -46,7 +48,7 @@ namespace DevIO.Api.Controllers
 
             await _fornecedorService.Adicionar(_mapper.Map<Fornecedor>(fornecedorDTO));
 
-            return CustomResponse(fornecedorDTO);
+            return CustomResponse(HttpStatusCode.Created, fornecedorDTO);
         }
 
         [HttpPut("{id:guid}")]
@@ -62,7 +64,7 @@ namespace DevIO.Api.Controllers
 
             await _fornecedorService.Atualizar(_mapper.Map<Fornecedor>(fornecedorDTO));
 
-            return CustomResponse();
+            return CustomResponse(HttpStatusCode.NoContent);
         }
 
         [HttpDelete("{id:guid}")]
@@ -70,7 +72,7 @@ namespace DevIO.Api.Controllers
         {
             await _fornecedorService.Remover(id);
 
-            return CustomResponse();
+            return CustomResponse(HttpStatusCode.NoContent);
         }
 
         private async Task<FornecedorDTO> ObterFornecedorProdutosEndereco(Guid id)
